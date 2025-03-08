@@ -1,6 +1,6 @@
 ## Hi there! I am Patricia Ghile
 
-# patriciaghie21
+# patriciaghile21
 
 I am a second-year Computer Science student at the Technical University of Cluj-Napoca with a passion for challenging myself and learning new things. I am always eager to take on new projects and continuously improve my skills.
 
