@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there! I am Patricia Ghile
 
-<!--
-**patriciaghile21/patriciaghile21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# patriciaghie21
 
-Here are some ideas to get you started:
+I am a second-year Computer Science student at the Technical University of Cluj-Napoca with a passion for challenging myself and learning new things. I am always eager to take on new projects and continuously improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Current Projects
+I'm currently working on various school and personal projects, and always seeking a new challenge!  
+My most important projects can be viewed on my [profile](#).
+
+---
+
+## 🌱 Skills & Interests
+- Java programming
+- Software engineering
+- Computer hardware
+- Databases
+
+## 👨‍💻 Collaboration
+I am always interested in collaborating on exciting projects and working with others to improve my skills.  
+If you have any projects or ideas that you would like to discuss, feel free to reach out to me.  
+All my contact information is public on my [profile](#).
+---
+
+
